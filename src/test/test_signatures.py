@@ -4,7 +4,6 @@ from src.test.party import Party
 
 class TestSignatureVerification:
     def __init__(self, curve):
-        super().__init__()
         self.curve = curve
 
     def create_parties(self):
