@@ -1,5 +1,5 @@
 from src.point import Point
-from gmpy2 import invert
+from gmpy import invert
 
 
 class EllipticCurve:

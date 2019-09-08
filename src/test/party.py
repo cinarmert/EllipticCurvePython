@@ -1,5 +1,5 @@
 from random import randint
-from gmpy2 import invert
+from gmpy import invert
 from dataclasses import dataclass
 from hashlib import sha1
 from base64 import b64encode
