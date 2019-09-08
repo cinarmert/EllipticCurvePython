@@ -1,1 +1,1 @@
-gmpy2
+gmpy
